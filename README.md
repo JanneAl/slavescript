@@ -31,3 +31,12 @@ Finally you need to sign the certificate as master:
     sudo puppet cert --list
     
  Congratulations you now have a new slave ready to use!
+
+
+credits:
+
+
+https://github.com/TatuE
+
+
+http://terokarvinen.com/2017/aikataulu-palvelinten-hallinta-ict4tn022-3-5-op-uusi-ops-loppusyksy-2017-p5
