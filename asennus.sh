@@ -2,7 +2,7 @@ sudo apt-get update
 
 sudo apt-get install -y puppet git
 
-git clone https://github.com/mhyvarinen/ssh.git
+git clone https://github.com/janneAl/sshd.git
 
 cd puppet/
 
